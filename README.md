@@ -26,6 +26,9 @@ Slack: @Anders Kjoelberg
 
 We will create a website that allows users to find pick up games for sports in parks in their area. Users will be able to see local games happening in their area via an embedded map and form teams and plan games with other users with a built in chat room. When a users’ team wins a game in a park they upload the winner of the match to the website and their team logo is displayed over the park on the map, allowing other teams to fight to contest the park. Additionally, the website will keep stats for individual players and teams such as wins, losses, and a friends list.
 
+#### Link 
+https://cst438-group-jabb.herokuapp.com/map/locations/-LDo1ofRZXVIGKjSimhx
+
 ### Motivation
 
 It is difficult to find enough people to start a pickup game  at a local park ,whether an individual player is looking or a group. Additionally, a team of players cannot find an opponent team unless they join a local league and they have no way to compare their team to others. Our app makes it easy for a player to quickly find a team to play their favorite sport with and enjoy a competitive environment to rank their team against other local players.
